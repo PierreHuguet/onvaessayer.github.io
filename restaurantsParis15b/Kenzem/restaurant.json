@@ -1,0 +1,23 @@
+{
+	"title": "Kenze'm",
+	"description": "restaurant oriental",
+	"address": "rue de Vaugirard, 75015 Paris",
+	"telephone": "0600000003",
+    "email":"kenzem@paris.fr",
+	"items": [
+	  {	"name": "American burger","price": 12.5,
+		"ingredients": ["Bun’s", "steak haché grillé", "sauce burger", "tomate", "oignons", "cornichons"],
+		"image": "Kenzem/hamburger.PNG"
+	  },
+	  { "name": "veggie Salad","price": 11.5,
+		"ingredients": [ "Quinoa","choux rouge", "courgette","aubergine",
+		                 "carotte","brocolis","avocat", "grenade", "radis"],
+		"image": "Kenzem/veggieSalad.jpg"
+	  },
+	  {	"name": "Bordeaux, Château Haut de Lerm","price": 23,
+		"ingredients":["raisin","alcool"],
+		"image":"Kenzem/bordeauxGR.jpg"
+	  }
+	]
+}
+

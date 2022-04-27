@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "le relais",
+        "description": "relaisDeLaPlace/restaurant.json",
+        "fill": "#0000FF"
+      },
+      "geometry": {
+        "type": "Point","coordinates": [2.3066380620002747,48.836606046462514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kenze'm",
+        "description": "Kenzem/restaurant.json",
+        "fill": "#00FF00"
+      },
+      "geometry": {
+        "type": "Point","coordinates": [2.3052459955215454,48.84039809611953]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Songsan",
+        "description": "songSan/restaurant.json",
+        "fill": "#00FFFF"
+      },
+      "geometry": {
+        "type": "Point","coordinates": [2.2993505001068115,48.83674728250898]
+      }
+    }
+  ]
+}
+
