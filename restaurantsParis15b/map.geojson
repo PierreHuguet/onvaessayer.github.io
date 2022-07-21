@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "title": "le relais",
-        "description": "relaisDeLaPlace/restaurant.json",
+        "description": "https://onvaessayer.github.io/restaurants/relaisDeLaPlace/restaurant.json",
         "fill": "#0000FF"
       },
       "geometry": {
@@ -16,7 +16,7 @@
       "type": "Feature",
       "properties": {
         "title": "Kenze'm",
-        "description": "Kenzem/restaurant.json",
+        "description": "https://onvaessayer.github.io/restaurants/Kenzem/restaurant.json",
         "fill": "#00FF00"
       },
       "geometry": {
@@ -27,7 +27,7 @@
       "type": "Feature",
       "properties": {
         "title": "Songsan",
-        "description": "songSan/restaurant.json",
+        "description": "https://onvaessayer.github.io/restaurants/songSan/restaurant.json",
         "fill": "#00FFFF"
       },
       "geometry": {
