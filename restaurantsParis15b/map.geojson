@@ -6,7 +6,9 @@
       "properties": {
         "title": "le relais",
         "description": "https://onvaessayer.github.io/restaurants/relaisDeLaPlace/restaurant.json",
-        "fill": "#0000FF"
+        "fill": "#0000FF",
+        "image":"pizza.png",
+        "infobox": true
       },
       "geometry": {
         "type": "Point","coordinates": [2.3066380620002747,48.836606046462514]
@@ -28,7 +30,9 @@
       "properties": {
         "title": "Songsan",
         "description": "https://onvaessayer.github.io/restaurants/songSan/restaurant.json",
-        "fill": "#00FFFF"
+        "fill": "#00FFFF",
+        "image":"korean.png",
+        "infobox": true
       },
       "geometry": {
         "type": "Point","coordinates": [2.2993505001068115,48.83674728250898]
